@@ -20,6 +20,24 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_yogeshpareek)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yogeshpareek09@gmail.com)
 
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshpareek&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&locale=en&theme=light" alt="yogeshpareek" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshpareek&show_icons=true&hide_border=false&layout=compact&locale=en&langs_count=8&theme=light" alt="yogeshpareek"/>
+</details>
+  
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshpareek&hide_border=false&theme=light" alt="yogeshpareek" />
+</details>
+
 <!--
 **yogeshpareek/yogeshpareek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
