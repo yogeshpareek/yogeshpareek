@@ -13,6 +13,48 @@
 - 💼 Any freelance work? do reach, [Email](mailto:yogeshpareek09@gmail.com) :)
 - 📫 How to reach me: [Email](mailto:yogeshpareek09@gmail.com), [LinkedIn](https://www.linkedin.com/in/yogeshpareek/);
 
+## Skillset
+> Tools, languages, and other things that I like to work with or have worked on in the past.
+
+<table>
+    <tbody>
+      <tr>
+        <td colspan="4"><b>Mobile Platforms & Languages</b></td>
+        <td colspan="2"><b>Frontend Technologies</b></td>
+        <td colspan="2"><b>Database</b></td>
+        <td colspan="1"><b>Cloud</b></td>
+      </tr>
+      <tr align="center">
+         <td width="85"><img alt="iOS" title="iOS" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"/> <br/> iOS</td>
+        <td width="85"><img alt="Android" title="Android" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"/> <br/> Android</td>
+	      <td width="85"><img alt="Swift" title="Swift" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/> <br/> Swift</td>
+        <td width="85"><img alt="Kotlin" title="Kotlin" height="42px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/> <br/> Kotlin</td>
+        <td width="85"><img alt="HTML" title="HTML" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/> <br/> HTML</td>
+        <td width="85"><img alt="CSS" title="CSS" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/> <br/> CSS</td>
+        <td width="85"><img alt="SQLite" title="SQLite" height ="42px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/> <br/> SQLite</td>
+        <td width="85"><img alt="Realm" title="Realm" height ="42px" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg"/> <br/> Realm</td>
+        <td width="85"><img alt="Firebase" title="Firebase" height ="42px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/> <br/> Firebase</td>
+      </tr>
+    </tbody>
+  </table>
+  
+<table>
+  <tbody>
+    <tr>
+      <td colspan="7"><b>Tools</b></td>
+    </tr>
+    <tr align="center">
+      <td width="85"><img alt="Xcode" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/xcode/xcode.png"/> <br/> Xcode</td>
+      <td width="85"><img alt="Android Studio" height="42px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/> <br/> Android Studio</td>
+      <td width="85"><img alt="Git" height="42px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> <br/> Git</td>
+      <td width="85"><img alt="JSON" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png"/> <br/> JSON</td>
+      <td width="85"><img alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> <br/> Postman</td>
+      <td width="85"><img alt="Zeplin" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/zeplin/zeplin.png"/> <br/> Zeplin</td>
+      <td width="85"><img alt="Trello" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"/> <br/> Trello</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Let's Connect 🤝
 
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/yogeshpareek)
