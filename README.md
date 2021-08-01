@@ -13,6 +13,13 @@
 - 💼 Any freelance work? do reach, [Email](mailto:yogeshpareek09@gmail.com) :)
 - 📫 How to reach me: [Email](mailto:yogeshpareek09@gmail.com), [LinkedIn](https://www.linkedin.com/in/yogeshpareek/);
 
+### Let's Connect 🤝
+
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/yogeshpareek)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshpareek/)
+[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_yogeshpareek)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yogeshpareek09@gmail.com)
+
 ## Skillset
 > Tools, languages, and other things that I like to work with or have worked on in the past.
 
@@ -55,14 +62,7 @@
   </tbody>
 </table>
 
-### Let's Connect 🤝
-
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/yogeshpareek)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshpareek/)
-[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_yogeshpareek)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yogeshpareek09@gmail.com)
-
-### Projects and Dev Stuffs:
+## Projects and Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
